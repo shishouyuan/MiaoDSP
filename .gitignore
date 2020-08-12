@@ -1,5 +1,8 @@
 *.log
-Debug/
-Release/
-.vscode/
-src/
+/Debug/
+/Release/
+/.vscode/
+/src/
+/.config/
+/.launches/
+/.settings/
